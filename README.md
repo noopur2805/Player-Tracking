@@ -21,3 +21,5 @@ Folder Structure:
 |--sort.py (deepsort pre-defined implementation)
 
 [Output Video](video.gif)
+
+As 
