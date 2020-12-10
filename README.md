@@ -2,10 +2,13 @@
 
 To execute:
 ```
+```
 python object tracker.py -v <video_path>
+```
 OR
+```
 python object tracker.py --video <video_path>
-
+```
 ```
 
 Folder Structure:
