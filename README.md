@@ -20,6 +20,4 @@ Folder Structure:
 |--object_tracker_optical_flow.py 
 |--sort.py (deepsort pre-defined implementation)
 
-[Output Video](video.gif)
-
-As 
+![Output Video](video.gif)
